@@ -1,8 +1,10 @@
-= Reference-en
+= Reference-zh_cn
 
 Reference-en is the repo for the Language Reference documentation of the Arduino syntax in **English**.  
+所有手册术语文件是AsciiDoc格式。
 All the Reference terms files are in AsciiDoc format.
 
+谢谢你花时间来贡献Arduino内容，这对于整个Arduino社区很有帮助。
 Thank you for taking the time to contribute to Arduino content, this is really helpful to the whole Arduino Community. If you want to learn more about how to contribute to this project, please check https://create.arduino.cc/projecthub/Arduino_Genuino/contribute-to-the-arduino-reference-af7c37[this step by step tutorial].
 
 == Content Creation and Editing
