@@ -1,17 +1,24 @@
 = Reference-zh_cn
 
+Reference-zh_cn是简体中文Arduino语言手册文档存储仓。 
 Reference-en is the repo for the Language Reference documentation of the Arduino syntax in **English**.  
-所有手册术语文件是AsciiDoc格式。
+
+所有手册术语文件使用AsciiDoc格式。
 All the Reference terms files are in AsciiDoc format.
 
-谢谢你花时间来贡献Arduino内容，这对于整个Arduino社区很有帮助。
+谢谢你花时间来贡献Arduino内容，这对于整个Arduino社区很有帮助。如果你想学习更多关于如何给这个项目贡献，请阅读https://create.arduino.cc/projecthub/Arduino_Genuino/contribute-to-the-arduino-reference-af7c37[这个一步步的教程].
 Thank you for taking the time to contribute to Arduino content, this is really helpful to the whole Arduino Community. If you want to learn more about how to contribute to this project, please check https://create.arduino.cc/projecthub/Arduino_Genuino/contribute-to-the-arduino-reference-af7c37[this step by step tutorial].
 
+== 内容创建和编译
 == Content Creation and Editing
+如果你想贡献新的内容，使用任意文本或代码编辑器创建一个新文件，并保存为.adoc格式。
 If you want to contribute new content, create a new file (with any text or code editor) and save it as .adoc.  
+在文件名里请不要使用括号或任何特殊字符。
 Do not use parenthesis or any special character in the file name.  
+在https://raw.githubusercontent.com/arduino/reference-en/master/AsciiDoc_sample/AsciiDoc_Dictionary/AsciiDoc_Template-Dictionary.adoc[`reference-en/AsciiDoc_sample/AsciiDoc_Dictionary`]里你将找到一个AsciiDoc语法的简介。这个包括标题、文本、链接、图片、表格、代码以及内存对象（包括视频、幻灯片、音频以及代码）。你能通过https://www.arduino.cc/reference/en/asciidoc_sample/asciidoc_dictionary/asciidoc_template-dictionary/查看一些示例效果。
 In https://raw.githubusercontent.com/arduino/reference-en/master/AsciiDoc_sample/AsciiDoc_Dictionary/AsciiDoc_Template-Dictionary.adoc[`reference-en/AsciiDoc_sample/AsciiDoc_Dictionary`] you will find an overview of the AsciiDoc syntax. This includes Titles, Text, Links, Images, Tables, Code and various embeds (video, slideshow, audio, and code). You can see it rendered https://www.arduino.cc/reference/en/asciidoc_sample/asciidoc_dictionary/asciidoc_template-dictionary/[here].
 
+如果你想贡献语言手册或者编辑存在的内容，你能在这里reference-en/AsciiDoc_sample/Reference_Terms找到两个模板：
 If you want to contribute to the Language Reference or edit existing content, you can find two templates in reference-en/AsciiDoc_sample/Reference_Terms:
 
 * Use https://raw.githubusercontent.com/arduino/reference-en/master/AsciiDoc_sample/Reference_Terms/AsciiDoc_Template-Single_Entity.adoc[`AsciiDoc_Template-Single_Entity.adoc`] (rendered https://www.arduino.cc/reference/en/asciidoc_sample/reference_terms/asciidoc_template-single_entity/[here]) for terms such as link:http://arduino.cc/en/Reference/AnalogWrite[analogWrite].
