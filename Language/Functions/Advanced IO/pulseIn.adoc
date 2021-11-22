@@ -55,7 +55,7 @@
 [float]
 === 示例代码
 // Describe what the example code is all about and add relevant code   ►►►►► THIS SECTION IS MANDATORY ◄◄◄◄◄
-The example prints the time duration of a pulse on pin 7.
+这个例子在7号引脚打印脉冲的时长。
 
 [source,arduino]
 ----
