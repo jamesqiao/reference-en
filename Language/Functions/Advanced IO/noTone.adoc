@@ -1,9 +1,9 @@
 ---
-title: noTone()
-title_expanded: ""
-categories: [ "Functions" ]
-subCategories: [ "Advanced I/O" ]
-aliases: [ /language/functions/advanced-io/noTone/ ]
+标题: noTone()
+扩展标题: ""
+分类: [ "功能" ]
+子分类: [ "高级 输入/输出" ]
+别名: [ /语言/功能/高级输入-输出/noTone/ ]
 ---
 
 
@@ -15,23 +15,23 @@ aliases: [ /language/functions/advanced-io/noTone/ ]
 --
 
 [float]
-=== Description
-Stops the generation of a square wave triggered by `tone()`. Has no effect if no tone is being generated.
+=== 描述
+停止由`tone()`触发的方波的生成。如果没有tone生成，则没有效果。
 [%hardbreaks]
 
 
 [float]
-=== Syntax
+=== 用法
 `noTone(pin)`
 
 
 [float]
-=== Parameters
-`pin`: the Arduino pin on which to stop generating the tone
+=== 参数
+`pin`: 用来停止生成tone的Arduino引脚编号。
 
 [float]
-=== Returns
-Nothing
+=== 返回值
+无
 
 --
 // OVERVIEW SECTION ENDS
@@ -44,8 +44,8 @@ Nothing
 --
 
 [float]
-=== Notes and Warnings
-If you want to play different pitches on multiple pins, you need to call `noTone()` on one pin before calling `tone()` on the next pin.
+=== 通知&警告
+如果您想在多个引脚上播放不同的音高，则需要在一个引脚上调用`noTone()'，然后在下一个引脚上调用`tone()'。
 [%hardbreaks]
 
 --
@@ -57,7 +57,7 @@ If you want to play different pitches on multiple pins, you need to call `noTone
 --
 
 [float]
-=== See also
+=== 查看其它
 
 --
 // SEE ALSO SECTION ENDS
