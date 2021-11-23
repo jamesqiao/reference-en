@@ -1,13 +1,15 @@
 ---
 标题title: noTone()
-title: noTone()
 扩展标题: ""
-title_expanded: ""
 分类: [ "功能" ]
-categories: [ "Functions" ]
 子分类: [ "高级输入/输出" ]
-subCategories: [ "Advanced I/O" ]
 别名: [ /语言/功能/高级输入-输出/noTone/ ]
+---
+---
+title: noTone()
+title_expanded: ""
+categories: [ "Functions" ]
+subCategories: [ "Advanced I/O" ]
 aliases: [ /language/functions/advanced-io/noTone/ ]
 ---
 
@@ -37,7 +39,7 @@ Stops the generation of a square wave triggered by `tone()`. Has no effect if no
 === 参数
 === Parameters
 `pin`: 用来停止生成tone的Arduino引脚编号。
-`pin`: the Arduino pin on which to stop generating the tone
+`pin`: the Arduino pin on which to stop generating the tone.
 
 [float]
 === 返回值
