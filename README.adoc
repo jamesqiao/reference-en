@@ -79,5 +79,5 @@ Within the Language folder, the file tree follows the same structure as in the l
 请注意你的对于Arduino开发手册的贡献许可于知识共享署名-相同方式共享3.0许可证。请查看https://creativecommons.org/licenses/by-sa/3.0/cn/deed.zh。
 Please note that your contribution to the Arduino Reference is licensed under a Creative Commons Attribution-Share Alike 3.0 License. see https://creativecommons.org/licenses/by-sa/3.0/
 
-image:https://i.creativecommons.org/l/by-sa/3.0/88x31.png[Creative Commons License, title="知识共享协议"] 这项工作许可于链接：https://creativecommons.org/licenses/by-sa/3.0/cn/deed.zh[知识共享署名-相同方式共享3.0未移植许可证].
+image:https://i.creativecommons.org/l/by-sa/3.0/88x31.png[Creative Commons License, title="知识共享协议"] 这项工作许可于链接：https://creativecommons.org/licenses/by-sa/3.0/cn/deed.zh [知识共享署名-相同方式共享3.0未移植许可证].
 image:https://i.creativecommons.org/l/by-sa/3.0/88x31.png[Creative Commons License, title="Creative Commons License"] This work is licensed under a link:https://creativecommons.org/licenses/by-sa/3.0/deed.en[Creative Commons Attribution-ShareAlike 3.0 Unported License].
