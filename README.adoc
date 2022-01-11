@@ -10,6 +10,7 @@ Reference-zh_cn是Arduino语言手册简体中文版的文档存储仓。 +
 在https://raw.githubusercontent.com/arduino/reference-en/master/AsciiDoc_sample/AsciiDoc_Dictionary/AsciiDoc_Template-Dictionary.adoc[`reference-en/AsciiDoc_sample/AsciiDoc_Dictionary`]里你将找到一个AsciiDoc语法的简介。这个包括标题、文本、链接、图片、表格、代码以及内存对象（包括视频、幻灯片、音频以及代码）。你能通过https://www.arduino.cc/reference/en/asciidoc_sample/asciidoc_dictionary/asciidoc_template-dictionary/查看一些示例效果。
 
 如果你想贡献语言手册或者编辑存在的内容，你能在这里reference-en/AsciiDoc_sample/Reference_Terms找到两个模板：
+
 * 参考https://raw.githubusercontent.com/arduino/reference-en/master/AsciiDoc_sample/Reference_Terms/AsciiDoc_Template-Single_Entity.adoc[`AsciiDoc_Template-Single_Entity.adoc`] (rendered https://www.arduino.cc/reference/en/asciidoc_sample/reference_terms/asciidoc_template-single_entity/[这里]) 学习条款，例如 link:http://arduino.cc/en/Reference/AnalogWrite[analogWrite]。
 
 * 参考https://raw.githubusercontent.com/arduino/reference-en/master/AsciiDoc_sample/Reference_Terms/AsciiDoc_Template-Parent_Of_Entities.adoc[`AsciiDoc_Template-Parent_Of_Entities.adoc`] (rendered https://www.arduino.cc/reference/en/asciidoc_sample/reference_terms/asciidoc_template-parent_of_entities/[here])学习函数组，例如link:http://arduino.cc/en/Reference/Serial[Serial]。
