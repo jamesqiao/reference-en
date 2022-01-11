@@ -1,30 +1,29 @@
 = 简体中文手册
-
-Reference-zh_cn是Arduino语言手册简体中文版的文档存储仓。 
+Reference-zh_cn是Arduino语言手册简体中文版的文档存储仓。 +
 所有手册术语文件使用AsciiDoc格式。
 
 谢谢你花时间来贡献Arduino内容，这对于整个Arduino社区很有帮助。如果你想学习更多关于如何给这个项目贡献，请阅读https://create.arduino.cc/projecthub/Arduino_Genuino/contribute-to-the-arduino-reference-af7c37[这个一步步的教程]。
 
 == 内容创建和编译
-如果你想贡献新的内容，使用任意文本或代码编辑器创建一个新文件，并保存为.adoc格式。
-在文件名里请不要使用括号或任何特殊字符。
+如果你想贡献新的内容，使用任意文本或代码编辑器创建一个新文件，并保存为.adoc格式。+
+在文件名里请不要使用括号或任何特殊字符。+
 在https://raw.githubusercontent.com/arduino/reference-en/master/AsciiDoc_sample/AsciiDoc_Dictionary/AsciiDoc_Template-Dictionary.adoc[`reference-en/AsciiDoc_sample/AsciiDoc_Dictionary`]里你将找到一个AsciiDoc语法的简介。这个包括标题、文本、链接、图片、表格、代码以及内存对象（包括视频、幻灯片、音频以及代码）。你能通过https://www.arduino.cc/reference/en/asciidoc_sample/asciidoc_dictionary/asciidoc_template-dictionary/查看一些示例效果。
 
 如果你想贡献语言手册或者编辑存在的内容，你能在这里reference-en/AsciiDoc_sample/Reference_Terms找到两个模板：
-* 参考https://raw.githubusercontent.com/arduino/reference-en/master/AsciiDoc_sample/Reference_Terms/AsciiDoc_Template-Single_Entity.adoc[`AsciiDoc_Template-Single_Entity.adoc`] (rendered https://www.arduino.cc/reference/en/asciidoc_sample/reference_terms/asciidoc_template-single_entity/[这里]) 学习条款，例如 link:http://arduino.cc/en/Reference/AnalogWrite[analogWrite].
+* 参考https://raw.githubusercontent.com/arduino/reference-en/master/AsciiDoc_sample/Reference_Terms/AsciiDoc_Template-Single_Entity.adoc[`AsciiDoc_Template-Single_Entity.adoc`] (rendered https://www.arduino.cc/reference/en/asciidoc_sample/reference_terms/asciidoc_template-single_entity/[这里]) 学习条款，例如 link:http://arduino.cc/en/Reference/AnalogWrite[analogWrite]. 
 * 参考https://raw.githubusercontent.com/arduino/reference-en/master/AsciiDoc_sample/Reference_Terms/AsciiDoc_Template-Parent_Of_Entities.adoc[`AsciiDoc_Template-Parent_Of_Entities.adoc`] (rendered https://www.arduino.cc/reference/en/asciidoc_sample/reference_terms/asciidoc_template-parent_of_entities/[here])学习函数组，例如link:http://arduino.cc/en/Reference/Serial[Serial].
 
-请注意每个手册文件应该包括至少一个描述、一些示例代码，以及其他相关信息的链接（相关信息区域）。 
+请注意每个手册文件应该包括至少一个描述、一些示例代码，以及其他相关信息的链接（相关信息区域）。 +
 如果你需要向Asciidoc文件加一些图片，请在同级目录创建一个名称为attachments的文件夹。图片支持SVG和PNG格式，最大不能超过200KB大小。
 
 == 在Github上贡献内容
-如果你对Git不熟悉，你能通过Github的在线接口直接贡献内容。我们上传了一篇简短的教程指导你如何做：https://create.arduino.cc/projecthub/Arduino_Genuino/contribute-to-the-arduino-reference-af7c37[请阅读！]
-请参考这个链接 link:https://help.github.com/articles/editing-files-in-another-user-s-repository/（由Github团队编写）来学习如何编译一个.adoc文件并向Arduino团队提交一份文件变更。
+如果你对Git不熟悉，你能通过Github的在线接口直接贡献内容。我们上传了一篇简短的教程指导你如何做：https://create.arduino.cc/projecthub/Arduino_Genuino/contribute-to-the-arduino-reference-af7c37[请阅读！] +
+请参考这个链接 link:https://help.github.com/articles/editing-files-in-another-user-s-repository/（由Github团队编写）来学习如何编译一个.adoc文件并向Arduino团队提交一份文件变更。 +
 当建议修改文件时，请参考在手册模板文件里的指导原则。
 
 == 提交上传内容
-我们很高兴你愿意向Arduino手册做出贡献：那是帮助社区的最好的途径。
-你的共享是添加或者修改当前的代码、描述，请在投稿前始终参考现有问题或打开新问题。
+我们很高兴你愿意向Arduino手册做出贡献：那是帮助社区的最好的途径。 +
+你的共享是添加或者修改当前的代码、描述，请在投稿前始终参考现有问题或打开新问题。 +
 
 === 文件夹结构
 [source]
@@ -50,5 +49,5 @@ reference-en
 在Lanuage目录里，文件树按照同样的结构遵循链接：https://www.arduino.cc/reference/en[Arduino Reference webpage]。
 
 === 许可证协议
-请注意你的对于Arduino开发手册的贡献许可于知识共享署名-相同方式共享3.0许可证。请查看https://creativecommons.org/licenses/by-sa/3.0/cn/deed.zh。
+请注意你的对于Arduino开发手册的贡献许可于知识共享署名-相同方式共享3.0许可证。请查看https://creativecommons.org/licenses/by-sa/3.0/cn/deed.zh。 +
 image:https://i.creativecommons.org/l/by-sa/3.0/88x31.png[Creative Commons License, title="知识共享协议"] 这项工作许可于链接：https://creativecommons.org/licenses/by-sa/3.0/cn/deed.zh [知识共享署名-相同方式共享3.0未移植许可证]。
