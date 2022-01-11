@@ -34,10 +34,15 @@ If you need to add images to the Asciidoc please create a folder called attachme
 == 在Github上贡献内容
 == Contribute Content on Github
 如果你对Git不熟悉，你能通过Github的在线接口直接贡献内容。我们上传了一篇简短的教程指导你如何做：https://create.arduino.cc/projecthub/Arduino_Genuino/contribute-to-the-arduino-reference-af7c37[请阅读！]
+
 If you are not familiar with Git you can contribute content directly on Github via their online interface. We put together a short Tutorial to show you how - https://create.arduino.cc/projecthub/Arduino_Genuino/contribute-to-the-arduino-reference-af7c37[CHECK IT OUT!]
 
+请参考这个链接 link:https://help.github.com/articles/editing-files-in-another-user-s-repository/（由Github团队编写）来学习如何编译一个.adoc文件并向Arduino团队提交一份文件变更。
+
 link:https://help.github.com/articles/editing-files-in-another-user-s-repository/[You can also follow this guide] (written by the Github team) to learn how to edit an .adoc file and propose a file change to the Arduino team.  
-当建议修改内容时，请参考在手册模板文件里的指导原则。
+
+当建议修改文件时，请参考在手册模板文件里的指导原则。
+
 When suggesting a change, please follow the guidelines described in the Reference template files.
 
 == 提交上传内容
@@ -71,13 +76,16 @@ reference-en
 ----
 
 在Lanuage目录里，文件树按照同样的结构遵循链接：https://www.arduino.cc/reference/en[Arduino Reference webpage。
+
 Within the Language folder, the file tree follows the same structure as in the link:https://www.arduino.cc/reference/en[Arduino Reference webpage]
 
 === 许可证协议
 === License
 
 请注意你的对于Arduino开发手册的贡献许可于知识共享署名-相同方式共享3.0许可证。请查看https://creativecommons.org/licenses/by-sa/3.0/cn/deed.zh。
+
 Please note that your contribution to the Arduino Reference is licensed under a Creative Commons Attribution-Share Alike 3.0 License. see https://creativecommons.org/licenses/by-sa/3.0/
 
-image:https://i.creativecommons.org/l/by-sa/3.0/88x31.png[Creative Commons License, title="知识共享协议"] 这项工作许可于链接：https://creativecommons.org/licenses/by-sa/3.0/cn/deed.zh [知识共享署名-相同方式共享3.0未移植许可证].
+image:https://i.creativecommons.org/l/by-sa/3.0/88x31.png[Creative Commons License, title="知识共享协议"] 这项工作许可于链接：https://creativecommons.org/licenses/by-sa/3.0/cn/deed.zh [知识共享署名-相同方式共享3.0未移植许可证]。
+
 image:https://i.creativecommons.org/l/by-sa/3.0/88x31.png[Creative Commons License, title="Creative Commons License"] This work is licensed under a link:https://creativecommons.org/licenses/by-sa/3.0/deed.en[Creative Commons Attribution-ShareAlike 3.0 Unported License].
