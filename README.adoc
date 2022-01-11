@@ -5,8 +5,8 @@ Reference-zh_cn是Arduino语言手册简体中文版的文档存储仓。 +
 谢谢你花时间来贡献Arduino内容，这对于整个Arduino社区很有帮助。如果你想学习更多关于如何给这个项目贡献，请阅读https://create.arduino.cc/projecthub/Arduino_Genuino/contribute-to-the-arduino-reference-af7c37[这个一步步的教程]。
 
 == 内容创建和编译
-如果你想贡献新的内容，使用任意文本或代码编辑器创建一个新文件，并保存为.adoc格式。+
-在文件名里请不要使用括号或任何特殊字符。+
+如果你想贡献新的内容，使用任意文本或代码编辑器创建一个新文件，并保存为.adoc格式。 +
+在文件名里请不要使用括号或任何特殊字符。 +
 在https://raw.githubusercontent.com/arduino/reference-en/master/AsciiDoc_sample/AsciiDoc_Dictionary/AsciiDoc_Template-Dictionary.adoc[`reference-en/AsciiDoc_sample/AsciiDoc_Dictionary`]里你将找到一个AsciiDoc语法的简介。这个包括标题、文本、链接、图片、表格、代码以及内存对象（包括视频、幻灯片、音频以及代码）。你能通过https://www.arduino.cc/reference/en/asciidoc_sample/asciidoc_dictionary/asciidoc_template-dictionary/查看一些示例效果。
 
 如果你想贡献语言手册或者编辑存在的内容，你能在这里reference-en/AsciiDoc_sample/Reference_Terms找到两个模板：
